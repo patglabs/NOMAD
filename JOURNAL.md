@@ -108,3 +108,6 @@ Im writing this from my phone because i fell asleep so i wont have images till i
 
 yesterday i almost got all the high speed routing. ompletely done and i think im gonna stick with it this time instead of restarting for a 4th time. It took a while because i have to get the length matching very precise in the same differential pair and somewhat precise between different pairs like rx tx and the 3hdmi lanes plus their clock. also i have to make sure i have no or very small stubs 
 because or else yoy get reflexions. then theres also the issue of having a lot of traces that i need to cross.
+<img width="1484" height="742" alt="image" src="https://github.com/user-attachments/assets/02d00e23-db8b-4fb6-88f5-b89a1077de44" />
+
+new routing
