@@ -137,6 +137,169 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector:Conn_01x02_Pin"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Pin"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_Pin_1_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Conn_01x03_Pin"
 			(pin_names
 				(offset 1.016)
@@ -438,183 +601,6 @@
 						)
 					)
 					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "Device:Battery_Cell"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "BT"
-				(at 2.54 2.54 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "Battery_Cell"
-				(at 2.54 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 1.524 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 1.524 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Single-cell battery"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "battery cell"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Battery_Cell_0_1"
-				(rectangle
-					(start -2.286 1.778)
-					(end 2.286 1.524)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start -1.524 1.016)
-					(end 1.524 0.508)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.778) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0.762) (xy 0 0)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.762 3.048) (xy 1.778 3.048)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 3.556) (xy 1.27 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "Battery_Cell_1_1"
-				(pin passive line
-					(at 0 5.08 270)
-					(length 2.54)
-					(name "+"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 90)
-					(length 2.54)
-					(name "-"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6754,6 +6740,16 @@
 		)
 		(uuid "9a4bd068-3697-44c1-86e4-31d228ed38c0")
 	)
+	(text "bios bat\n"
+		(exclude_from_sim no)
+		(at 351.536 30.988 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c7898d26-3239-448a-af19-9f9fff97cf29")
+	)
 	(text "HPD pin of unused DDI/TCP port\nneeds to be pulled down"
 		(exclude_from_sim no)
 		(at 241.3 284.48 0)
@@ -7379,16 +7375,6 @@
 	)
 	(wire
 		(pts
-			(xy 353.06 44.45) (xy 355.6 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b64fe79-cf49-4e7e-b2b2-637fe88fc7a6")
-	)
-	(wire
-		(pts
 			(xy 351.79 233.68) (xy 368.3 233.68)
 		)
 		(stroke
@@ -7406,6 +7392,16 @@
 			(type default)
 		)
 		(uuid "1128c2b5-c695-4a76-be68-7a40d3a05d4b")
+	)
+	(wire
+		(pts
+			(xy 350.52 44.45) (xy 355.6 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "126a1158-13a0-4fb3-a929-dec79ea80644")
 	)
 	(wire
 		(pts
@@ -7656,6 +7652,16 @@
 			(type default)
 		)
 		(uuid "464bab07-6f2a-4470-9124-2f9dfb660dc3")
+	)
+	(wire
+		(pts
+			(xy 347.98 44.45) (xy 347.98 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d32ddfc-28a9-4a08-8c4c-9a08d384af46")
 	)
 	(wire
 		(pts
@@ -7919,7 +7925,7 @@
 	)
 	(wire
 		(pts
-			(xy 340.36 44.45) (xy 345.44 44.45)
+			(xy 340.36 44.45) (xy 347.98 44.45)
 		)
 		(stroke
 			(width 0)
@@ -7956,6 +7962,16 @@
 			(type default)
 		)
 		(uuid "8cf819cf-deea-4d2c-b98d-b22db51c476f")
+	)
+	(wire
+		(pts
+			(xy 350.52 43.18) (xy 350.52 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91958503-0f0a-4e4f-afa6-a026caba710e")
 	)
 	(wire
 		(pts
@@ -10918,6 +10934,142 @@
 		)
 	)
 	(symbol
+		(lib_name "MountingHole_Pad_1")
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 127 346.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "76e86c01-b643-4177-b3f9-0771795ba309")
+		(property "Reference" "H79"
+			(at 129.54 344.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 129.54 346.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
+			(at 127 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 127 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 127 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7646195b-fc1a-42d4-98b9-4d1be81343aa")
+		)
+		(instances
+			(project "[DFR1142]Lite Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/6eee02c2-78c9-4e83-9ccf-e0f7690b57bf"
+					(reference "H79")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "MountingHole_Pad_1")
+		(lib_id "Mechanical:MountingHole_Pad")
+		(at 127 356.87 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7798e216-96b5-4e1f-9c5a-fec1a814a922")
+		(property "Reference" "H80"
+			(at 129.54 354.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "MountingHole_Pad"
+			(at 129.54 356.8699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "A_HDJ_Library:MountingHole_3mm_M2_Pad_TopOnly"
+			(at 127 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 127 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Mounting Hole with connection"
+			(at 127 356.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f8658df7-9e7b-4af9-b212-230923c0c29a")
+		)
+		(instances
+			(project "[DFR1142]Lite Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/6eee02c2-78c9-4e83-9ccf-e0f7690b57bf"
+					(reference "H80")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 414.02 302.26 0)
 		(unit 1)
@@ -11777,16 +11929,17 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:Battery_Cell")
-		(at 350.52 44.45 90)
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 350.52 38.1 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b9fab14e-06df-4148-a2c0-60fa21b02034")
-		(property "Reference" "BT1"
-			(at 347.98 40.64 90)
+		(fields_autoplaced yes)
+		(uuid "b589e2dc-ffb5-452b-a5c5-dc213a24afa2")
+		(property "Reference" "J84"
+			(at 351.79 37.4649 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11794,8 +11947,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Battery_Cell"
-			(at 355.6 38.1 90)
+		(property "Value" "Conn_01x02_Pin"
+			(at 351.79 40.0049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11803,8 +11956,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "A_HDJ_Library:Battery_Holder_CR1220_S8411-45R"
-			(at 348.996 44.45 90)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
+			(at 350.52 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11813,7 +11966,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 348.996 44.45 90)
+			(at 350.52 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11821,61 +11974,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 350.52 44.45 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 350.52 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
 			)
-		)
-		(property "SCH_Show_Footprint" ""
-			(at 350.52 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" ""
-			(at 350.52 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" ""
-			(at 350.52 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Type" ""
-			(at 350.52 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c00e1b1b-edb1-4fdf-ae65-1240c9e36488")
 		)
 		(pin "2"
-			(uuid "1a221968-fa3a-4abe-8718-b41fec9f3e95")
+			(uuid "40c7e044-df7c-41b2-91fd-ff755db612fe")
+		)
+		(pin "1"
+			(uuid "63a3a6dc-3432-4250-beeb-f174a31a2122")
 		)
 		(instances
-			(project "[DFR1142]Lite Carrier for LattePanda Mu"
+			(project ""
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/6eee02c2-78c9-4e83-9ccf-e0f7690b57bf"
-					(reference "BT1")
+					(reference "J84")
 					(unit 1)
 				)
 			)
