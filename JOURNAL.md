@@ -4,7 +4,7 @@ author: "pat/patcybermind"
 description: "an open source semi modular laptop"
 created_at: "2024-06-29"
 ---
-
+lte rc pla
 total hours: 69
 
 ## june 29th:
