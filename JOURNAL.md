@@ -5,7 +5,7 @@ description: "an open source semi modular laptop"
 created_at: "2024-06-29"
 ---
 lte rc pla
-total hours: 69
+total hours: 75
 
 ## june 29th:
 4 hours
@@ -111,3 +111,9 @@ because or else yoy get reflexions. then theres also the issue of having a lot o
 <img width="1484" height="742" alt="image" src="https://github.com/user-attachments/assets/02d00e23-db8b-4fb6-88f5-b89a1077de44" />
 
 new routing
+
+## july 20th
+6 hours:
+today i continued routing the high speed traces, turns out i forgot some. I also had forgotten to add ground stitching vias near high speed signal vias so i did that, had to move some stuff around to make space for new stuff. then i also placed more components on the boardd like the power supplies (5v, 12, 3) and power leds, bios battery. i2c and uart ports and debug among others. Earlier i talked about the high speed traces. It turns out some of them were too close to each other which would have caused cross talk so i also had to change that. Im not sure how sensitive usb and pcie and hdmi really are but I'm gonna play it safe so im trying to make stuff the best i can even if i means stuff takes up more space on the board and looks less good, or a lot of gpio ports are under the som. Though i dont think thats a big inconvenience. Also the thing i made the most sure to get right so for this is made sure to only route on the front layer was hdmi because without the other io i have alternatives but with the display not really unless i spend more which i cant really do xd. thats why youll see its one of the only ports that doesnt have l3 routing. There are 2 other ones ig but they are the usb 2.0 ports, one is 4 2.54mm pitch pins and the other is the usb c port you'll see in the image. they only have 1 differential pair so they are really easy to route. I dont think ive mentioned this but, for the stackup i'm going with l1 high speed signals priority then low speed and power, l2 gnd plane, l3 high speed signals some low speed, l4 gnd plane. this is because each high speed differential pair needs to have a gnd plane to keep impedance constant. at the start i thought itd do l4 as a power plane and have l3 use l2 for its gnd plane but it turns out its not such a good idea because the thickness of the material between l2 and l3 is pretty big so its not very ideal. so that means ill just have to find a way to route power around that limitation even though it woudl have been great to have an entire level for power.
+
+<img width="842" height="828" alt="image" src="https://github.com/user-attachments/assets/88b899ee-451b-4c9f-8efa-dfe1c29178d3" />
