@@ -122,3 +122,8 @@ today i continued routing the high speed traces, turns out i forgot some. I also
 X HOURS
 
 <img width="563" height="579" alt="image" src="https://github.com/user-attachments/assets/1dfa40f2-809f-4a9a-b8d9-a43b89b81086" />
+
+my ground plane settings for me later <img width="1032" height="890" alt="image" src="https://github.com/user-attachments/assets/6e478dad-81ab-4883-a45d-3b3b7da520a5" />
+
+
+
