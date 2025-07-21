@@ -4,8 +4,8 @@ author: "pat/patcybermind"
 description: "an open source semi modular laptop"
 created_at: "2024-06-29"
 ---
-
-total hours: 63
+lte rc pla
+total hours: 69
 
 ## june 29th:
 4 hours
@@ -101,3 +101,13 @@ image is mostly for myself <img width="1536" height="785" alt="image" src="https
 <img width="581" height="334" alt="image" src="https://github.com/user-attachments/assets/c5e485e2-f09e-472f-9b2f-4c8c7460faff" />
 
 routing i think is looking cleaner
+
+## july 18th
+6 hours: 
+Im writing this from my phone because i fell asleep so i wont have images till i get back home.
+
+yesterday i almost got all the high speed routing. ompletely done and i think im gonna stick with it this time instead of restarting for a 4th time. It took a while because i have to get the length matching very precise in the same differential pair and somewhat precise between different pairs like rx tx and the 3hdmi lanes plus their clock. also i have to make sure i have no or very small stubs 
+because or else yoy get reflexions. then theres also the issue of having a lot of traces that i need to cross.
+<img width="1484" height="742" alt="image" src="https://github.com/user-attachments/assets/02d00e23-db8b-4fb6-88f5-b89a1077de44" />
+
+new routing
