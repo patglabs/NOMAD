@@ -129,4 +129,11 @@ my ground plane settings for me later <img width="1032" height="890" alt="image"
 
 ## july 22nd
 4 hours
+Fixed the drc errors there were like clearances and a lot of vias and a lot of false alarm.
+final pcb
+<img width="617" height="612" alt="image" src="https://github.com/user-attachments/assets/fd8ffeae-21cd-4b88-8003-0ec7bfca4fd2" />
+
+jlcpcb settings:
+<img width="1603" height="1600" alt="image" src="https://github.com/user-attachments/assets/92bf1025-f604-4fc7-9cee-5e1000ed7c7f" />
+
 
