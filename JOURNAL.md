@@ -5,7 +5,7 @@ description: "an open source semi modular laptop"
 created_at: "2024-06-29"
 ---
 lte rc pla
-total hours: 75
+total hours: 78
 
 ## june 29th:
 4 hours
@@ -126,4 +126,7 @@ X HOURS
 my ground plane settings for me later <img width="1032" height="890" alt="image" src="https://github.com/user-attachments/assets/6e478dad-81ab-4883-a45d-3b3b7da520a5" />
 
 
+
+## july 22nd
+4 hours
 
