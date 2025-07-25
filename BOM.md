@@ -1,5 +1,9 @@
 budget: 350 usd (with tax) 305 without tax
 
+TODO:
+* check if the items im getting already have the edp cable
+* add hdmi cable to bom
+
 ## Lattepanda mu + lite dev carrier board 180 usd:
   https://www.dfrobot.com/kit-004.htmlà
 
