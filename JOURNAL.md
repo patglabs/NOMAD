@@ -5,7 +5,7 @@ description: "an open source semi modular laptop"
 created_at: "2024-06-29"
 ---
 lte rc pla
-total hours: 78
+total hours: 82
 
 ## june 29th:
 4 hours
@@ -136,4 +136,12 @@ final pcb
 jlcpcb settings:
 <img width="1603" height="1600" alt="image" src="https://github.com/user-attachments/assets/92bf1025-f604-4fc7-9cee-5e1000ed7c7f" />
 
+## july 23rd 
+4 hours
+I finished the BOM on jlcpcb exept for one usb that i cant find so im now looking for one on digikey
+Finally found one on digikey downloaded the .step file of both my pcb and the usb connector to check if the usb receptacle fits into the holes and it does!
 
+<img width="842" height="630" alt="image" src="https://github.com/user-attachments/assets/918211c0-34cb-44e9-80e5-dc46fd16f32a" />
+
+
+<img width="842" height="630" alt="image" src="https://github.com/user-attachments/assets/0042184b-57e7-4bd2-b739-017b56ffc613" />
