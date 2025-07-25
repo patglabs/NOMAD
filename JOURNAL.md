@@ -143,5 +143,5 @@ Finally found one on digikey downloaded the .step file of both my pcb and the us
 
 <img width="842" height="630" alt="image" src="https://github.com/user-attachments/assets/918211c0-34cb-44e9-80e5-dc46fd16f32a" />
 
-
-<img width="842" height="630" alt="image" src="https://github.com/user-attachments/assets/0042184b-57e7-4bd2-b739-017b56ffc613" />
+[https://www.digikey.ca/en/products/detail/molex/0483930003/4701504](https://www.digikey.ca/en/products/detail/molex/0483930003/4701504)
+this one
