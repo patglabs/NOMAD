@@ -1,4 +1,4 @@
-budget: 350 usd (with tax) 305 without tax
+budget: 350 usd (with tax) 305 without tax (the rest ill have to get on my own)
 
 TODO:
 * check if the items im getting already have the edp cable
@@ -20,3 +20,8 @@ https://www.aliexpress.com/item/1005005966208898.html?spm=a2g0o.productlist.main
 ## sodim ddr4 connector
 C2979963
 https://jlcpcb.com/partdetail/FOXCONN-ASAA823_EARB07H/C2979963
+
+
+TODO:
+* check if the items im getting already have the edp cable
+* add hdmi cable to bom
