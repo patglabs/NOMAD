@@ -5,7 +5,7 @@ description: "an open source semi modular laptop"
 created_at: "2024-06-29"
 ---
 lte rc pla
-total hours: 82
+total hours: 86
 
 ## june 29th:
 4 hours
@@ -145,3 +145,13 @@ Finally found one on digikey downloaded the .step file of both my pcb and the us
 
 [https://www.digikey.ca/en/products/detail/molex/0483930003/4701504](https://www.digikey.ca/en/products/detail/molex/0483930003/4701504)
 this one
+
+
+## july 26th
+4 hours
+
+I must admit i skipped a bit thats because it was mostly tweaking stuff i already wrote about and because i only had time to work on it in litte bits because i was busy.
+
+Anyways today im focusing on the cad for the chassis, at the moment im working on modelling the parts like the pcb and the keyboard and screen then ill be able to make a case around those
+
+<img width="901" height="570" alt="image" src="https://github.com/user-attachments/assets/5ba8e8df-b0b7-4cbc-ae6b-638af95b6186" />
