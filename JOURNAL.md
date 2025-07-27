@@ -155,3 +155,6 @@ I must admit i skipped a bit thats because it was mostly tweaking stuff i alread
 Anyways today im focusing on the cad for the chassis, at the moment im working on modelling the parts like the pcb and the keyboard and screen then ill be able to make a case around those
 
 <img width="901" height="570" alt="image" src="https://github.com/user-attachments/assets/5ba8e8df-b0b7-4cbc-ae6b-638af95b6186" />
+
+note to self: total laptop width is 32cm atm
+
