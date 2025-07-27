@@ -118,32 +118,7 @@
   },
   "open_jobsets": [],
   "project": {
-    "files": [
-      {
-        "name": "[DFR1142]Lite Carrier for LattePanda Mu.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 1,
-          "maximized": false,
-          "pos_x": 320,
-          "pos_y": 1273,
-          "size_x": 1280,
-          "size_y": 720
-        }
-      },
-      {
-        "name": "[DFR1142]Lite Carrier for LattePanda Mu.kicad_pcb",
-        "open": true,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": 320,
-          "pos_y": 1315,
-          "size_x": 1280,
-          "size_y": 636
-        }
-      }
-    ]
+    "files": []
   },
   "schematic": {
     "selection_filter": {
