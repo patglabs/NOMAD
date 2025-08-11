@@ -2981,6 +2981,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "but before there was no gnd"
+		(exclude_from_sim no)
+		(at 233.68 180.086 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "16e63794-891e-4aa6-a144-c5a282dcc7da")
+	)
 	(text "usb 3 seperated\n"
 		(exclude_from_sim no)
 		(at 346.202 189.484 0)
@@ -3010,6 +3020,16 @@
 			)
 		)
 		(uuid "a8eb3784-0b9f-4c09-a6b6-ca6887d32598")
+	)
+	(text "should be fine"
+		(exclude_from_sim no)
+		(at 232.41 178.308 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "eb800d17-b852-4cfe-8e66-1d67f84d88cc")
 	)
 	(junction
 		(at 261.62 228.6)
@@ -5565,6 +5585,73 @@
 			(project "[DFR1142]Lite Carrier for LattePanda Mu"
 				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/f9aa04f2-8362-4e9f-9e54-e2b1a8ec9b0a"
 					(reference "#PWR0121")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 232.41 173.99 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "361777f4-e414-4595-aff4-a82f28d3259d")
+		(property "Reference" "#PWR0122"
+			(at 226.06 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 173.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 232.41 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 232.41 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 232.41 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "47371f66-5d22-4284-b7ea-6bec54390bd9")
+		)
+		(instances
+			(project "[DFR1142]Lite Carrier for LattePanda Mu"
+				(path "/2a6d114a-7fd7-4207-b5f7-4ea9c34f36aa/f9aa04f2-8362-4e9f-9e54-e2b1a8ec9b0a"
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
