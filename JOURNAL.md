@@ -5,7 +5,7 @@ description: "an open source semi modular laptop"
 created_at: "2024-06-29"
 ---
 lte rc pla
-total hours: 86
+total hours: 88
 
 ## june 29th:
 4 hours
@@ -148,7 +148,7 @@ this one
 
 
 ## july 26th
-4 hours
+6 hours
 
 I must admit i skipped a bit thats because it was mostly tweaking stuff i already wrote about and because i only had time to work on it in litte bits because i was busy.
 
@@ -157,4 +157,11 @@ Anyways today im focusing on the cad for the chassis, at the moment im working o
 <img width="901" height="570" alt="image" src="https://github.com/user-attachments/assets/5ba8e8df-b0b7-4cbc-ae6b-638af95b6186" />
 
 note to self: total laptop width is 32cm atm
+
+well its now officially the next day cuz its 1 am but im continuing this log, 
+<img width="861" height="510" alt="image" src="https://github.com/user-attachments/assets/e38952b8-093d-4676-bcaa-79e9b01126b7" />
+
+as you can see, this is an assembly with the main laptop parts here, once i get the parts im going to have take some measurements that i couldnt find online because im not buying well known things
+then ill have to tweak the cad which shouldnt take long and then i should have a laptop! I'll add mods to it and upgrade somethings in the future and i will probably update this journal too as this is
+a really cool project that i really like.
 
