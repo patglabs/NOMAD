@@ -21,6 +21,7 @@ Its pretty crowded, I recomend you open up the pcb in kicad you'll be able to zo
 (missing the 2 usb3 ports and the ddr4 so-dimm connector
 
 note: pcb V2 is the latest pcb, but production wise they are the same its just a redraw of the schematic
+so you want to look at the v2
 
 ### cad
 <img width="731" height="548" alt="image" src="https://github.com/user-attachments/assets/3b908616-347f-4ec7-8787-8387c1257f1a" />
