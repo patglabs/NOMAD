@@ -5,7 +5,7 @@ description: "an open source semi modular laptop"
 created_at: "2024-06-29"
 ---
 lte rc pla
-total hours: 88
+total hours: 96
 
 ## june 29th:
 4 hours
@@ -119,7 +119,7 @@ today i continued routing the high speed traces, turns out i forgot some. I also
 <img width="842" height="828" alt="image" src="https://github.com/user-attachments/assets/88b899ee-451b-4c9f-8efa-dfe1c29178d3" />
 
 ## july 21st
-X HOURS
+1 HOURS
 
 <img width="563" height="579" alt="image" src="https://github.com/user-attachments/assets/1dfa40f2-809f-4a9a-b8d9-a43b89b81086" />
 
@@ -165,10 +165,13 @@ as you can see, this is an assembly with the main laptop parts here, once i get 
 then ill have to tweak the cad which shouldnt take long and then i should have a laptop! I'll add mods to it and upgrade somethings in the future and i will probably update this journal too as this is
 a really cool project that i really like.
 
-august 11th:
+## august 11th:
+
 7 hours
 
 Today I'm redrawing the schematic. Itl take a few hours but it shouldnt be too bad. Then if i still have time i'll polish the cad and make it more final.
 
 So I redrew the schematic from scratch not much to say, i simplified it a bit ig, also the schematic looks a bit different. Yeah, nothing too exiting this time.
 I also did some research trying to find exact dimensions for the parts i'm using like the display and the keyboard but i really can't find much. It's frustrating.
+
+<img width="524" height="334" alt="image" src="https://github.com/user-attachments/assets/f4e11411-6ab6-40e5-8b24-fe80f4502b54" />
