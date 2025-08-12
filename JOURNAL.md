@@ -5,7 +5,7 @@ description: "an open source semi modular laptop"
 created_at: "2024-06-29"
 ---
 lte rc pla
-total hours: 95
+total hours: 96
 
 ## june 29th:
 4 hours
@@ -119,7 +119,7 @@ today i continued routing the high speed traces, turns out i forgot some. I also
 <img width="842" height="828" alt="image" src="https://github.com/user-attachments/assets/88b899ee-451b-4c9f-8efa-dfe1c29178d3" />
 
 ## july 21st
-X HOURS
+1 HOURS
 
 <img width="563" height="579" alt="image" src="https://github.com/user-attachments/assets/1dfa40f2-809f-4a9a-b8d9-a43b89b81086" />
 
