@@ -5,7 +5,7 @@ description: "an open source semi modular laptop"
 created_at: "2024-06-29"
 ---
 lte rc pla
-total hours: 88
+total hours: 95
 
 ## june 29th:
 4 hours
@@ -165,7 +165,8 @@ as you can see, this is an assembly with the main laptop parts here, once i get 
 then ill have to tweak the cad which shouldnt take long and then i should have a laptop! I'll add mods to it and upgrade somethings in the future and i will probably update this journal too as this is
 a really cool project that i really like.
 
-august 11th:
+## august 11th:
+
 7 hours
 
 Today I'm redrawing the schematic. Itl take a few hours but it shouldnt be too bad. Then if i still have time i'll polish the cad and make it more final.
