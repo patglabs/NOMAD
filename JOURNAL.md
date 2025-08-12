@@ -172,3 +172,5 @@ Today I'm redrawing the schematic. Itl take a few hours but it shouldnt be too b
 
 So I redrew the schematic from scratch not much to say, i simplified it a bit ig, also the schematic looks a bit different. Yeah, nothing too exiting this time.
 I also did some research trying to find exact dimensions for the parts i'm using like the display and the keyboard but i really can't find much. It's frustrating.
+
+<img width="524" height="334" alt="image" src="https://github.com/user-attachments/assets/f4e11411-6ab6-40e5-8b24-fe80f4502b54" />
