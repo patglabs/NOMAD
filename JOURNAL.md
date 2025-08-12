@@ -166,6 +166,9 @@ then ill have to tweak the cad which shouldnt take long and then i should have a
 a really cool project that i really like.
 
 august 11th:
-x hours
+7 hours
 
 Today I'm redrawing the schematic. Itl take a few hours but it shouldnt be too bad. Then if i still have time i'll polish the cad and make it more final.
+
+So I redrew the schematic from scratch not much to say, i simplified it a bit ig, also the schematic looks a bit different. Yeah, nothing too exiting this time.
+I also did some research trying to find exact dimensions for the parts i'm using like the display and the keyboard but i really can't find much. It's frustrating.
