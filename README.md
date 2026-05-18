@@ -1,7 +1,9 @@
-# NOMAD
+# NOMAD 
 A laptop designed to be customisable, portable and open source
 
 if you're in the hc slack make sure to join #pats-basement
+
+## STATUS : ON HOLD DUE TO LACK OF FUNDS
 
 ## In brief:
 Nomad is a laptop ive designed and am designing that features a lattepanda mu n100 at its center which handles all the compute. It uses a custom mainboard pcb that I designed to have 2 usb 3 type A ports exposed to the outside,
